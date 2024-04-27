@@ -23,7 +23,7 @@ set(CMAKE_CXX_STANDARD 17)
 include(pico_extras_import.cmake)
 
 set(PICO_BOARD_HEADER_DIRS ${CMAKE_CURRENT_LIST_DIR})
-set(PICO_BOARD picogus2)
+set(PICO_BOARD pimoroni_pico_plus2_rp2350)
 set(PICO_COPY_TO_RAM 1)
 
 # Tell the Pico SDK to use our local tinyusb instead of the one included in the SDK
