@@ -67,3 +67,4 @@ My videos:
 The hardware portions of this repository (hw/ directory) are licensed under the CERN OHL version 2, permissive.
 
 The software portions of this repository (sw/, pgusinit/ directories) are licensed under the GNU GPL version 2.
+ 
